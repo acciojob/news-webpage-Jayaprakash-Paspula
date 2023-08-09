@@ -9,10 +9,11 @@ h1{
 	height:80px;
 	}
 .grid{
-	display:flex;
+	display:inline-block;
 	background-color:white;
 	border-radius:30px;
 	column-gap:10px;
+
 }
 img{
 	width:70px
